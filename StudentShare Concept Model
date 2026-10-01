@@ -1,0 +1,123 @@
+StudentShare is an app/website that allows students to share files with their peers. Our mission is to help students share files easily, freely, and as efficiently as possible while also avoiding harm and limiting anything illegal.
+
+Where to access:
+	StudentShare can be accessed via
+StudentShare app (available both PC/Mobile) - Mobile preferred 
+StudentShare website (available both PC/Mobile) - PC preferred
+
+How to use:
+	When you go to the StudentShare website/app, you are immediately directed to the file sharing page. There is no sign-in required, you can use the software completely anonymously. 
+
+	Step 1. Visit studentshare.com
+	Step 2. Upload files
+	Step 3. Connect to other party
+	Step 4. Click “Share Files”
+
+To upload files, you can either drag and drop files from your files to the dropbox, click on the upload files button and manually select files, or click on upload files from your library (sign-in required). 
+
+Un-supported files:
+	Since studentshare is an application for students to share resources, we have decided to block certain risky file types that everyday students are very unlikely to send such as:
+.exe files
+.dll files
+.cmd files
+.bat files
+.scr files
+
+User Connection:
+To connect to the other party, select your connection option:
+Share code (default option, when you load the page a share code will already be generated)
+Enter username (Works if the user you’re trying to send files to has an account)
+QR code (Fastest option if you and the other party are in the same room)
+
+If you want to share files with multiple users, you also have the option to create a “Multi-User Party”. A Multi-User Party allows you to add multiple users to have access to the files. All three connection options still work under a Multi-User Party.
+
+Once you upload your files, studentshare’s User Protection AI scans uploaded files for potentially harmful or unauthorized content, including suspected copyright infringement, explicit material, malware, and dangerous files. Once the files pass the security check, your files will be instantly sent to the other party.
+
+What happens when files don’t pass the user protection Ai?
+	If the user protection Ai detects copyrighted/explicit/dangerous content, an extra step is added. If you are an anonymous user, you are blocked from sharing the file/s, you will need an account to continue. If you are logged into an account, a warning will appear on your screen showing and explaining what about your files is flagged. Studentshare will let you send the content anyway but your account will be flagged in the internal system. If your account has been flagged multiple times, your account may receive a strike. If you receive 3 strikes, your account may be blocked from sharing files. Since AI can be wrong, If you receive a strike, you are able to appeal them and the strike may get removed. If your account gets banned, you are able to appeal that aswell. When you send files that the ai has flagged, a warning will also appear on the other party’s end when they access it. This system is in place to ensure that users can freely sharefiles with other students while protecting others from harm. User’s also have the ability to report users to better remove harmful users. 
+
+How does the Ai Scanner work?
+	The User Protection Ai has various methods to scan for each type of prohibited content. 
+
+Detection Methods:
+Video & Audio fingerprint matching (If a file contains copyrighted video/audio, it can easily be detected and matched with content from studentshare’s large copyrighted database. Partial matches may pass through undetected. This method is primarily used to detect copyrighted videos, movies, music)
+Database matching (If a file matches a file in the prohibited files database, the file may be flagged. This method is primarily used to detect minimally edited content and content reported by other users)
+Text similarity detection (If a document contains similar text to known documents on the internet, it may get flagged as copyrighted. Partial matches may pass through undetected. This method is primarily used to find pirated documents and textbooks)
+Perceptual Hashing (If a file contains images, those images will be compared to a large database of known copyrighted/forbiden images. The technology works similarly to google lens so it can spot edited images. Partial matches may pass through undetected. This method is primarily used to detect copyrighted art and explicit images.)
+Image Pattern Recognition (If a file contains images, the ai will look for certain patterns in the image to determin if the image contains something forbidden. This method is primarily used to detect explicit images and images depicting something illegal)
+Antivirus (The ai will scan the file for viruses, suspicious code, and embeded software)
+Autoban (If a file has been blocked by studentshare, it will be added to the autoban database and it will automatically be blocked by studentshare from being shared in the future by other users)
+
+Account Creation:
+	Though it's not required, user’s are able to create an account on studentshare. The process of creating an account is very quick. You can essentially just sign in with google/email and that's pretty much all that is needed to create an account. Studentshare will ask you to fill in some details to personalize your account such as picking a username, display name, password, setting your date of birth, and selecting your school (this is an app made for student’s after all), but you can skip all of these and it’ll generate a username for you (your generated username would be a random adjective + a random noun + a short string of numbers ex. BlueWhale21). 
+
+What An Account Allows You To Do:
+Have people send you files and connect via username
+Send flagged files
+Get invited to groups
+Get emailed by studentshare
+Access private library
+Access certain features in public library
+Access school specific things (adding your school is required for this)
+Purchase premium subscriptions
+
+Private Library:
+	Studentshare allows users to sync files from their device to studentshare. Since studentshare needs access to your files in order to sync and studentshare values the privacy of their users, users can choose to opt into this feature and have studentshare only have access to specific folders on your device. Studentshare allows you to sync up to 16GB of data to your private library, though you can increase this limit by paying for premium. Sharing files from your private library bypass upload time because it shares the file directly from the library to the other party. You can also view these files offline making it useful when you dont have an internet connection. 
+
+Public Library:
+	Studentshare’s Public Library is an entirely different thing from the Private Library. The Public Library is a space that contains publicly available content submitted by students. You can filter by School, Filetype, Student, Course, and Popularity. You can also search for the content you’re looking for. 
+
+How to Upload to Public Library:
+	To upload to the Public Library, you first need an account free from any strikes. You then upload the file/s you want to share publicly, title the file/s, add a preview, add tags, select what courses this file is related to, select what school this file is related to, and even add a short description if you want. Once you finish adding the details, click share files and studentshare will scan the file/s for copyrighted/explicit/dangerous content. Unlike the peer to peer sharing feature, If the Ai flags your content, you cannot share the file and if this was a mistake, you can appeal by contacting support. This is to ensure the safety of the public. When you publicly share content on the public library, users can vote up the content for more users to see. This way, good and useful content can appear first to users looking for that content. 
+
+StudentShare Marketplace:
+	Marketplace is where users and official partners can buy and sell digital/physical goods. Official partners of studentshare might sell their products on studentshare at discounted prices. This way, students can get material such as textbooks and school supplies for cheaper than what they would have and Official partners get exposure. Normal users with accounts free from any strikes can also sell on studentshare marketplace though they are only allowed to sell physical goods. They are encouraged to list items that may be useful for college/highschool students. Sellers have the option to ship via postal service (label paid either by seller or buyer) or in-person pickup (this would work similar to eBay’s in-person pickup). Buyers can also rate products they purchase giving credibility to sellers and listings. Marketplaces within studentshare groups operate similarly but users are only allowed to buy and sell to members within that group. Listings from Official partners will also be displayed in Group marketplaces.
+
+StudentShare Groups:
+	Groups are basically spaces for users who share something in common to connect. Users can create groups for other users to join. You can either make these groups public or private but it's default to private. If you set the group to be private, you can either make it so people have to request to join the group, or create a code and only people with that code can join the group. To join a public group, all you have to do is find the group and click join. To join a private group, either you need to request permission to join, or submit a code.
+
+What a StudentShare Group Has:
+Member’s list
+Group exclusive Library
+Group discussion boards/threads/channels
+
+	Groups can also be officially verified by StudentShare if that group happens to belong to an Institution or School. Verified groups have the ability to allow user’s join with their institution/school email. A verified group has all features that a normal group has + a group exclusive marketplace.
+
+Premium Subscriptions:
+	StudentShare offers a premium subscription as a way for the platform to make money. Our goal is to have 99% of users be able to use Studentshare without feeling the need to pay for anything. Our subscriptions aim to offer perks that aren’t necessarily needed but can be huge for some users.
+
+Subscription includes:
+Upgraded Private Library storage (maybe 64GB-256GB)
+Sync multiple devices (Sync files from your Phone, Laptop and even your Samsung Fridge if you want!)
+Backup files (Want to delete a file from your phone but have it remain in your Private Library? This feature allows users to treat the Private Library as an actual file storage space)
+Priority support (Frequent file sharers might find this useful and appealing falsely blocked content quickly can be a real time saver)
+
+
+
+How Does StudentShare Make Money?
+	StudentShare has multiple streams of cashflow. These include:
+Commission from Official Partners
+Seller fees from ordinary sellers
+Premium Subscription 
+
+Potential problems and fixes:
+How does the join code method work anonymously without being vulnerable to interception?
+The randomly generated join code is 6 characters in length (letters and numbers). When you share a file, your join code will be active for 15 minutes before expiring. The other party also has a join code and when the other party types in the sender’s join code to receive the file, the sender will receive the other partys join code and a confirmation that this is the user you wanted to send files to. Once the sender confirms, the join code becomes inactive. It’s quick, No account is needed, and very hard to intercept.
+How to prevent zip bombs or zips containing prohibited files from being sent?
+The short answer is that they can't be completely prevented. .ZIP files are very versatile and studentshare users are likely to share these types of files so it's impractical to add to the un-supported list. However, what studentshare can do is scan .ZIP files more aggressively to ensure the contents are safe.
+
+
+Problem in Grokster
+StudentShare's solution
+Promoted itself to former Napster users, effectively targeting people who wanted to obtain copyrighted music illegally. (Legal Information Institute)
+StudentShare explicitly markets itself for legitimate educational file sharing notes, projects, homework, and anything else school related.
+Did not meaningfully attempt to filter copyrighted material or reduce infringement. (Legal Information Institute)
+StudentShare uses copyright filtering/reporting systems to identify and remove unauthorized copyrighted material.
+Its business model benefited from high-volume usage, while much of that usage was infringing. (Legal Information Institute)
+StudentShare's revenue isn't dependent on encouraging users to upload/download as much content as possible.
+Evidence showed the companies' words and actions encouraged infringement. The Court specifically distinguished this from simply distributing a technology capable of lawful and unlawful uses. (Supreme Court)
+StudentShare's policies, advertising, and user agreements explicitly prohibit copyright infringement and encourage users to upload only material they created, own, or have permission to share.
+Grokster had knowledge that infringement was occurring and still provided assistance to users in some circumstances. (Legal Information Institute)
+StudentShare provides support for legitimate educational use, while directing users toward copyright-compliant sharing rather than helping them circumvent restrictions.
+
+
