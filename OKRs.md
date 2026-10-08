@@ -4,7 +4,7 @@
 
 2. data validation of publicly shared academic content (prevent misinformation overload) (misha)
 
-3. make academic collaboration and resource sharing easier for students (Azhan)
+3. make academic resource sharing easier for students (Azhan)
 
 4. promote services and equity of use (gabriel)
 
