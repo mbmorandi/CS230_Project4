@@ -1,12 +1,12 @@
 # Potential OKRs for Project 4
 
-1. Promote responsible document sharing while protecting intellectual property rights. (Mursal)
+1. Protect copyrights and intellectual properties. (Mursal)
 
-2. improve reliability and trustworthiness of publicly shared academic content (prevent misinformation overload) (misha)
+2. data validation of publicly shared academic content (prevent misinformation overload) (misha)
 
 3. make academic collaboration and resource sharing easier for students (Azhan)
 
-4. promote note sharing among students while upholding institutional academic integrity (gabriel)
+4. promote services and equity of use (gabriel)
 
 
 framework for student share
